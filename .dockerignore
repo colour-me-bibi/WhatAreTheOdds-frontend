@@ -1,0 +1,9 @@
+*
+
+!index.html
+!nginx.conf
+!package*.json
+!tsconfig*.json
+!vite.config.ts
+!src/
+!public/
